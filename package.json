@@ -2,9 +2,6 @@
   "name": "mern",
   "version": "1.0.0",
   "description": "Mern, JWT Authentication, mongoDB, Express",
-  "engines": {
-    "node": "16.x"
-  },
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
